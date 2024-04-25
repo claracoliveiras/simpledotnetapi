@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\Visual Studio\\WebAPI\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FF7D40-FB94-4C91-83A6-5D4F8EEA3297}|WebAPI\\WebAPI.csproj|c:\\dev\\visual studio\\webapi\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FF7D40-FB94-4C91-83A6-5D4F8EEA3297}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FF7D40-FB94-4C91-83A6-5D4F8EEA3297}|WebAPI\\WebAPI.csproj|c:\\dev\\visual studio\\webapi\\webapi\\webapi\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FF7D40-FB94-4C91-83A6-5D4F8EEA3297}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FF7D40-FB94-4C91-83A6-5D4F8EEA3297}|WebAPI\\WebAPI.csproj|c:\\dev\\visual studio\\webapi\\webapi\\webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FF7D40-FB94-4C91-83A6-5D4F8EEA3297}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FF7D40-FB94-4C91-83A6-5D4F8EEA3297}|WebAPI\\WebAPI.csproj|c:\\dev\\visual studio\\webapi\\webapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7FF7D40-FB94-4C91-83A6-5D4F8EEA3297}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FF7D40-FB94-4C91-83A6-5D4F8EEA3297}|WebAPI\\WebAPI.csproj|c:\\dev\\visual studio\\webapi\\webapi\\webapi\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FF7D40-FB94-4C91-83A6-5D4F8EEA3297}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FF7D40-FB94-4C91-83A6-5D4F8EEA3297}|WebAPI\\WebAPI.csproj|c:\\dev\\visual studio\\webapi\\webapi\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F7FF7D40-FB94-4C91-83A6-5D4F8EEA3297}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FF7D40-FB94-4C91-83A6-5D4F8EEA3297}|WebAPI\\WebAPI.csproj|c:\\dev\\visual studio\\webapi\\webapi\\webapi\\data\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FF7D40-FB94-4C91-83A6-5D4F8EEA3297}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\data\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7FF7D40-FB94-4C91-83A6-5D4F8EEA3297}|WebAPI\\WebAPI.csproj|c:\\dev\\visual studio\\webapi\\webapi\\webapi\\migrations\\20240423001612_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7FF7D40-FB94-4C91-83A6-5D4F8EEA3297}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\migrations\\20240423001612_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\dev\\Visual Studio\\WebAPI\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "C:\\dev\\Visual Studio\\WebAPI\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-20T18:14:15.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebAPI.csproj",
+              "DocumentMoniker": "C:\\dev\\Visual Studio\\WebAPI\\WebAPI\\WebAPI\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj",
+              "ToolTip": "C:\\dev\\Visual Studio\\WebAPI\\WebAPI\\WebAPI\\WebAPI.csproj",
+              "RelativeToolTip": "WebAPI\\WebAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-20T18:14:14.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "APIDBContext.cs",
+              "DocumentMoniker": "C:\\dev\\Visual Studio\\WebAPI\\WebAPI\\WebAPI\\Data\\APIDBContext.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Data\\APIDBContext.cs",
+              "ToolTip": "C:\\dev\\Visual Studio\\WebAPI\\WebAPI\\WebAPI\\Data\\APIDBContext.cs",
+              "RelativeToolTip": "WebAPI\\Data\\APIDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T18:14:15.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JWTSettings.cs",
+              "DocumentMoniker": "C:\\dev\\Visual Studio\\WebAPI\\WebAPI\\WebAPI\\Models\\JWTSettings.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\JWTSettings.cs",
+              "ToolTip": "C:\\dev\\Visual Studio\\WebAPI\\WebAPI\\WebAPI\\Models\\JWTSettings.cs",
+              "RelativeToolTip": "WebAPI\\Models\\JWTSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T18:14:13.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\dev\\Visual Studio\\WebAPI\\WebAPI\\WebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\dev\\Visual Studio\\WebAPI\\WebAPI\\WebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAADAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T18:14:13.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\dev\\Visual Studio\\WebAPI\\WebAPI\\WebAPI\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\dev\\Visual Studio\\WebAPI\\WebAPI\\WebAPI\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ProdutosController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAQwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T18:14:14.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\Visual Studio\\WebAPI\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\dev\\Visual Studio\\WebAPI\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwCQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T18:14:14.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240423001612_Identity.cs",
+              "DocumentMoniker": "C:\\dev\\Visual Studio\\WebAPI\\WebAPI\\WebAPI\\Migrations\\20240423001612_Identity.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Migrations\\20240423001612_Identity.cs",
+              "ToolTip": "C:\\dev\\Visual Studio\\WebAPI\\WebAPI\\WebAPI\\Migrations\\20240423001612_Identity.cs",
+              "RelativeToolTip": "WebAPI\\Migrations\\20240423001612_Identity.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwHcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T00:16:13.203Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
