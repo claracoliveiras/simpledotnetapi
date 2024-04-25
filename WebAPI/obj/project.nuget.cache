@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1C7VOcIh9sA=",
+  "dgSpecHash": "oyZZHDcIr4b1TXuK/o/NpDIgoAw7+PVj1bt+ZcGhud2HbeVBhLOI/yxDRqbwSBJIUIZ5otw3U8aFt6WNVKIuSQ==",
   "success": true,
-  "projectFilePath": "C:\\dev\\Visual Studio\\WebAPI\\WebAPI\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\Clara\\Developer\\Visual Studio\\WebAPI\\simpledotnetapi\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Clara\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Clara\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.29\\microsoft.aspnetcore.authentication.jwtbearer.6.0.29.nupkg.sha512",
